@@ -1,0 +1,21 @@
+ID,NOME,CAPACIDADE,LATITUDE,LONGITUDE,TIME,CAPITÃO,DIVISÃO,SITE
+1,Maracanã,78.838,-2.290.981,-4.323.391,FLUMINENSE,Nino,A,www.fluminense.com.br
+2,Mané Garrincha,72.000,-1.578.375,-4.789.903,SANTO ANDRE,Claudinho,D,www.ecsantoandre.com.br
+3,Morumbi,66.795,-2.360.006,-4.672.016,SÃO PAULO,Rafinha,A,www.saopaulofc.net
+4,Arena Castelão,63.903,-380.674,-3.852.168,FORTALEZA,Wellington Paulista,B,www.fortalezaec.net
+5,Mineirão,61.927,-1.986.591,-4.397.104,CRUZEIRO,Rafael Cabral,A,www.cruzeiro.com.br
+6,Arruda,60.000,-802.681,-3.489.120,BAYERN,Kimmich,A,https://fcbayern.com/em
+7,Arena do Grêmio,55.662,-2.997.404,-5.119.511,GRÊMIO,Suarez,A,www.gremio.net
+8,Mangueirão,55.645,-138.114,-4.844.483,LIVERPOOL,Van Dijk,A,https://www.liverpoolfc.com/
+9,Beira-Rio,50.848,-3.006.549,-5.123.492,INTERNACIONAL,Rafael,A,www.internacional.com.br
+10,Neo Química Arena,48.234,-2.354.529,-4.647.429,CORINTHIANS,Cássio,B,www.corinthians.com.br
+11,Arena Fonte Nova,48.000,-1.297.889,-3.850.348,BAHIA,Conti,A,www.esporteclubebahia.com.br
+12,ALIANZ PARQUE,43.713,-235.275,-466.726,PALMEIRAS,Gustavo Gomez,A,www.palmeiras.com.br
+13,Arena Pernambuco,46.000,-802.681,-3.489.120,FLAMENGO,Gabigol,B,www.flamengo.com.br
+14,Arena MRV,46.000,-1.993.001,-4.401.388,ATLÉTICO MINEIRO,Hulk,A,www.atletico.com.br
+15,Prudentão,45.954,-2.209.857,-5.141.506,INTER DE MILAO,Brozovic,B,https://www.inter.it/it
+16,Engenhão,45.217,-2.289.319,-4.329.357,BOTAFOGO,Victor Cuesta,A,www.botafogo.com.br
+17,Albertão,44.200,-511.614,-4.279.287,PARIS SAINT-GERMAIN,Marquinhos,B,https://pt.psg.fr/
+18,Morenão,44.200,-2.050.143,-5.461.022,REAL MADRID,Karim Benzema,A,https://www.realmadrid.com/pt
+19,Arena Pantanal,44.097,-1.560.406,-5.612.230,BARCELONA,Jordi Alba,B,https://www.fcbarcelona.com/en/
+20,Arena da Amazônia,44.000,-308.434,-6.002.650,MANCHESTER CITY,De Bruyne,A,https://www.mancity.com/
